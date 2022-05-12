@@ -17,3 +17,8 @@ source_metadata:
       parent: Seven-Branch Offering
 created_at: '2022-03-01T02:16:24.636760'
 last_modified_at: '2022-03-01T02:16:24.636762'
+statistics:
+  total_words: 1104
+  total_non_words: 59
+quality:
+  non_words_ratio: 0.05
